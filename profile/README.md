@@ -6,7 +6,7 @@
 
 Filling the gap between Appwrite and a near-perfect Developer Experience by providing an extensive suite of FOSS tools for Appwrite.
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-Written-724773.svg?style=flat-square)](https://codeberg.org/Written)
+[![Codeberg](https://img.shields.io/badge/Check%20us%20out%20on-Codeberg-724773.svg?style=flat-square)](https://codeberg.org/Written)
 
 ---
 
