@@ -8,8 +8,9 @@ Filling the gap between Appwrite and a near-perfect Developer Experience by prov
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-Written-724773.svg?style=flat-square)](https://codeberg.org/Written)
 
-</div>
-
 ---
 
-We handle everything over on [Codeberg](https://codeberg.org/Written)! Check us out over there :)
+We handle everything over on [Codeberg](https://codeberg.org/Written)!<br/>
+We hope to see you over there :)
+
+</div>
