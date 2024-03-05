@@ -1,6 +1,6 @@
 <div align="center">
 
-![Written Logo](https://codeberg.org/Written/Written/raw/branch/senpai/ico/written.png)
+![Written Logo](https://codeberg.org/Written/Written/raw/branch/senpai/ico/written-black.png)
 
 # Written
 
